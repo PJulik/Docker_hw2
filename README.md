@@ -7,5 +7,6 @@
 docker build -t 'name' .
 
 3. Запустить сборку:
+   
 docker run --name 'name' -d -p 8000:8000 'name'
 
